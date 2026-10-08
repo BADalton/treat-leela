@@ -556,3 +556,15 @@ footer p {
     font-size: .75rem;
   }
 }
+
+.hero-social {
+  display: inline-block;
+  margin-top: 18px;
+  font-weight: 700;
+  color: var(--lavender-dark);
+  text-decoration: none;
+}
+
+.hero-social:hover {
+  text-decoration: underline;
+}
